@@ -3,7 +3,9 @@ LAMP-Blast: Easier method to blast LAMP primersets with NCBI's Blast
 
 The bash script converts lamp primers to a query format opitmized to NCBI's blast tool
 
-The images below show examples of using lamp-blast script to blast Sars-Cov2 primers from Rabe & Cepko (2020) obtained from Lamp-bank
+The images below show examples of using lamp-blast script to blast Sars-Cov2 primers from Rabe & Cepko (2020) obtained from Lamp Primers Bank
+
+Check the lamp-blast protocol at [protocols.io](https://www.protocols.io/view/lamp-blast-easier-method-to-blast-lamp-primersets-g2cfbyatp)
 
 ![image](https://github.com/user-attachments/assets/a9619c65-23ab-45df-a678-9976202cadf4)
 
